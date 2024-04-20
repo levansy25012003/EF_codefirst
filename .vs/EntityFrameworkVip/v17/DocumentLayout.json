@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ThayHuy\\EntityFrameworkVip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD32A471-A62F-4B16-A550-3D75C2AD7885}|EntityFrameworkVip\\EntityFrameworkVip.csproj|d:\\thayhuy\\entityframeworkvip\\entityframeworkvip\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD32A471-A62F-4B16-A550-3D75C2AD7885}|EntityFrameworkVip\\EntityFrameworkVip.csproj|solutionrelative:entityframeworkvip\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD32A471-A62F-4B16-A550-3D75C2AD7885}|EntityFrameworkVip\\EntityFrameworkVip.csproj|d:\\thayhuy\\entityframeworkvip\\entityframeworkvip\\controllers\\loaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD32A471-A62F-4B16-A550-3D75C2AD7885}|EntityFrameworkVip\\EntityFrameworkVip.csproj|solutionrelative:entityframeworkvip\\controllers\\loaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD32A471-A62F-4B16-A550-3D75C2AD7885}|EntityFrameworkVip\\EntityFrameworkVip.csproj|d:\\thayhuy\\entityframeworkvip\\entityframeworkvip\\data\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD32A471-A62F-4B16-A550-3D75C2AD7885}|EntityFrameworkVip\\EntityFrameworkVip.csproj|solutionrelative:entityframeworkvip\\data\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\ThayHuy\\EntityFrameworkVip\\EntityFrameworkVip\\Data\\SinhVien.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkVip\\Data\\SinhVien.cs",
+              "ToolTip": "D:\\ThayHuy\\EntityFrameworkVip\\EntityFrameworkVip\\Data\\SinhVien.cs",
+              "RelativeToolTip": "EntityFrameworkVip\\Data\\SinhVien.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:26:46.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoaiController.cs",
+              "DocumentMoniker": "D:\\ThayHuy\\EntityFrameworkVip\\EntityFrameworkVip\\Controllers\\LoaiController.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkVip\\Controllers\\LoaiController.cs",
+              "ToolTip": "D:\\ThayHuy\\EntityFrameworkVip\\EntityFrameworkVip\\Controllers\\LoaiController.cs",
+              "RelativeToolTip": "EntityFrameworkVip\\Controllers\\LoaiController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:21:13.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVienController.cs",
+              "DocumentMoniker": "D:\\ThayHuy\\EntityFrameworkVip\\EntityFrameworkVip\\Controllers\\SinhVienController.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkVip\\Controllers\\SinhVienController.cs",
+              "ToolTip": "D:\\ThayHuy\\EntityFrameworkVip\\EntityFrameworkVip\\Controllers\\SinhVienController.cs",
+              "RelativeToolTip": "EntityFrameworkVip\\Controllers\\SinhVienController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:20:51.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
